@@ -1,1 +1,1 @@
-# cpp-shapegame
+# cpp-shape-game
